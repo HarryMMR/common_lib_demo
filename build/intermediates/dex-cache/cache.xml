@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices_67bff1a8abfd2946b0a4e5cec632fb4b8c32c4f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\libs\GoogleAdMobAdsSdk-6.4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6262c554ef5744538d526465aa73704810705734">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.4.1_4547214e69e61784304a350a981a4a070b54ae07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\exploded-aar\com.viewpagerindicator\viewpagerindicator\2.4.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afe69ea8d4416221d167c386c4d345b1e78f1cc6">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\com.viewpagerindicator-viewpagerindicator-2.4.3_20c2590259ec825d9654a5639fd16d5639bd6cf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_c650a15dbc9c475553d4383b05acf4cc367331a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_093c53c5934f68cb46c50b80ca63d2c95874bfce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_77571f78987242b56558bd4d7fe1d541c13c1fbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\exploded-aar\cn.trinea.android.common\trinea-android-common\4.2.15\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b93ac952ea9e308e5bdd789c88c9eb8dc92054e6">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\cn.trinea.android.common-trinea-android-common-4.2.15_5da3e90ea6070ef14a6934231437e037a64d6e43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jelly\.gradle\caches\modules-2\files-2.1\cn.trinea.android.view.autoscrollviewpager\android-auto-scroll-view-pager\1.1.2\8ad9237a8b0965696ea32ca9c1de173e082eaad4\android-auto-scroll-view-pager-1.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad9237a8b0965696ea32ca9c1de173e082eaad4">
+        <dex dex="C:\Users\Jelly\Documents\GitHub\android-demo1\app\build\intermediates\pre-dexed\debug\android-auto-scroll-view-pager-1.1.2_eddfa0f7bd050ae25191a7ec5cf9e3f43ee7d2ea.jar" />
+    </item>
+
+</items>

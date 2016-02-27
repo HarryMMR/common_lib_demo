@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\github.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-xxhdpi\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_press.9.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-xxhdpi\\button_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_stop.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-xxhdpi\\icon_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\trinea.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-xxhdpi\\trinea.png"
+    }
+]

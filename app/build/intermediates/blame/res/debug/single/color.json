@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\viewpagerindicator\\2.4.3\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\viewpagerindicator\\2.4.3\\res\\color\\vpi__light_theme.xml"
+    }
+]

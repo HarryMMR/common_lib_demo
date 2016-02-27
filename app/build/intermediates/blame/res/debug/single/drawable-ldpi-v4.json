@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\button_press.9.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-ldpi\\button_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\trinea.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-ldpi\\trinea.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon_stop.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-ldpi\\icon_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\drop_down_list_arrow.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\exploded-aar\\cn.trinea.android.common\\trinea-android-common\\4.2.15\\res\\drawable-ldpi\\drop_down_list_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\github.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-ldpi\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Jelly\\Documents\\GitHub\\android-demo1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]
